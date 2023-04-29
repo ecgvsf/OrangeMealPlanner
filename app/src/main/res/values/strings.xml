@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Orange Planner</string>
+    <string name="api_key">cef06e344b944326902956b0ff1d2832</string>
+
+    <string name="user_label">User</string>
+    <string name="recipes_label">Recipes</string>
+    <string name="home_label">Home</string>
+
+    <string name="like">%1$s Likes.</string>
+    <string name="servings">%1$s Servings.</string>
+    <string name="minutes">%1$s Minutes.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

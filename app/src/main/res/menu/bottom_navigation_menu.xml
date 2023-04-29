@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/recipes_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_cook"
+        android:title="@string/recipes_label"
+
+        app:cnb_backgroundColor="@color/primary"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/white"/>
+    <item
+        android:id="@+id/home_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_label"
+
+        app:cnb_backgroundColor="@color/primary"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/white"/>
+    <item
+        android:id="@+id/user_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_user"
+        android:title="@string/user_label"
+
+        app:cnb_backgroundColor="@color/primary"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/white"/>
+
+</menu>
+
